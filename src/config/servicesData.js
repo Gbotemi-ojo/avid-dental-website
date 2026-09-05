@@ -1,7 +1,6 @@
 // src/config/servicesData.js
 import React from 'react';
 import { 
-  FaTooth, 
   FaTeeth, 
   FaTeethOpen, 
   FaCrown, 
